@@ -48,7 +48,7 @@ public class Alumno {
 		return curso;
 	}
 	
-	
+	  
 	/**
 	 * Se introduce el curso del alumno
 	 * @param curso
