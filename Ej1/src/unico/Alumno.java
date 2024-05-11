@@ -58,8 +58,8 @@ public class Alumno {
 	public void setCurso(int curso) {
 		this.curso = curso;
 	}
-	
-
+	  
+    
 	/**
 	 * Devuelve el nombre del alumno
 	 * @return
